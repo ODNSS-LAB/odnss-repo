@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to Zane Odeh's slide deck!"
 ---
 
-Caption here
+Welcome!
 
 ![droidtocat](https://octodex.github.com/images/droidtocat.png)
 {: .center}
